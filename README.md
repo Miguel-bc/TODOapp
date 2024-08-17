@@ -28,12 +28,12 @@ La aplicación de tareas (To-Do App) ofrece las siguientes funcionalidades:
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/miguel-bc/to-do-app.git
+    git clone https://github.com/Miguel-bc/TODOapp.git
     ```
 
 2. Navega hasta la carpeta `to-do-app`:
     ```bash
-    cd to-do-app
+    cd TODOapp
     ```
 
 3. Abre el archivo `index.html` en tu navegador para comenzar a utilizar la aplicación.

@@ -31,7 +31,7 @@ La aplicación de tareas (To-Do App) ofrece las siguientes funcionalidades:
     git clone https://github.com/Miguel-bc/TODOapp.git
     ```
 
-2. Navega hasta la carpeta `to-do-app`:
+2. Navega hasta la carpeta `TODOapp`:
     ```bash
     cd TODOapp
     ```
@@ -48,7 +48,7 @@ Este proyecto fue desarrollado como parte de un tutorial en YouTube que se puede
 
 ## Créditos
 
-- **Repositorio Original**: [Miguel-bc en GitHub](https://github.com/miguel-bc/to-do-app)
+- **Repositorio Original**: [JoyShaheb en GitHub](https://github.com/JoyShaheb/CRUD-Application.git)
 - **Tutorial en YouTube**: [freeCodeCamp](https://www.youtube.com/watch?v=fL9cts8ykbU&t=4505s)
 
 ## Licencia
